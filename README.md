@@ -14,5 +14,5 @@ Example:
     "..."
   ],
   "modifyCell": "A6"
-}⏎   
+}
 ```

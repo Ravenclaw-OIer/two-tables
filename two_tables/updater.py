@@ -6,12 +6,12 @@ import json
 import os
 
 OPT = '''Usage:
-two-tables [options] <conf>
+two_tables [options] <conf>
 
 -p, --pdf     Convert to PDF format (requires LibreOffice)
 -h, --help    Print this help
 
-two-tables is free software licensed under the GNU General
+two_tables is free software licensed under the GNU General
 Public License, version 3 or later.
 '''
 DAYS = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]

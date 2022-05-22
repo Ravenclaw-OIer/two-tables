@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "two-tables"
-version = "0.1.1"
+version = "0.1.2"
 description = "Automatically update two tables"
 authors = ["LilyWhite <lilywhite2005@outlook.com>"]
 license = "GPL-3.0-or-later"
